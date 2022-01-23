@@ -1,0 +1,220 @@
+{"frames": {
+
+"abyss_dweller.jpg":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"abyssal_cultist.jpg":
+{
+	"frame": {"x":128,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"abyssal_eel.jpg":
+{
+	"frame": {"x":0,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"animated_droplet.jpg":
+{
+	"frame": {"x":128,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"aqusirr.jpg":
+{
+	"frame": {"x":0,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"brother_ironhull.jpg":
+{
+	"frame": {"x":128,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"colossal_tentacle.jpg":
+{
+	"frame": {"x":0,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"deepsea_ritualist.jpg":
+{
+	"frame": {"x":128,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"dredged_sailor.jpg":
+{
+	"frame": {"x":0,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"drowned_depthbringer.jpg":
+{
+	"frame": {"x":128,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"forgotten_denizen.jpg":
+{
+	"frame": {"x":0,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"galecaller_apprentice.jpg":
+{
+	"frame": {"x":128,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"galecaller_faye.jpg":
+{
+	"frame": {"x":0,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"guardian_elemental.jpg":
+{
+	"frame": {"x":128,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ironhull_apprentice.jpg":
+{
+	"frame": {"x":0,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"living_current.jpg":
+{
+	"frame": {"x":128,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"lord_stormsong.jpg":
+{
+	"frame": {"x":0,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"runecarver_sorn.jpg":
+{
+	"frame": {"x":128,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"shrine_templar.jpg":
+{
+	"frame": {"x":0,"y":1125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"sunken_denizen.jpg":
+{
+	"frame": {"x":128,"y":1125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"temple_attendant.jpg":
+{
+	"frame": {"x":0,"y":1250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"tidesage_enforcer.jpg":
+{
+	"frame": {"x":128,"y":1250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"tidesage_initiate.jpg":
+{
+	"frame": {"x":0,"y":1375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"tidesage_spiritualist.jpg":
+{
+	"frame": {"x":128,"y":1375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"volzith_the_whisperer.jpg":
+{
+	"frame": {"x":0,"y":1500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"windspeaker_heldis.jpg":
+{
+	"frame": {"x":128,"y":1500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":1625},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c5d0120c7d9ebd00e4100a11f6d81add:3ded9f0f22252ba04fd5c65f128c1724:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

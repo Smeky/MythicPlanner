@@ -1,0 +1,276 @@
+{"frames": {
+
+"ashvane_cannoneer.jpg":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_commander.jpg":
+{
+	"frame": {"x":128,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_deckhand.jpg":
+{
+	"frame": {"x":256,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_destroyer.jpg":
+{
+	"frame": {"x":384,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_invader.jpg":
+{
+	"frame": {"x":0,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_sniper.jpg":
+{
+	"frame": {"x":128,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_spotter.jpg":
+{
+	"frame": {"x":256,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_buccaneer.jpg":
+{
+	"frame": {"x":384,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_cutthroat.jpg":
+{
+	"frame": {"x":0,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_demolisher.jpg":
+{
+	"frame": {"x":128,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_pillager.jpg":
+{
+	"frame": {"x":256,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_tempest.jpg":
+{
+	"frame": {"x":384,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"blacktar_bomber.jpg":
+{
+	"frame": {"x":0,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"chopper_redhook.jpg":
+{
+	"frame": {"x":128,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"dockhound_packmaster.jpg":
+{
+	"frame": {"x":256,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"dread_captain_lockwood.jpg":
+{
+	"frame": {"x":384,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"hadal_darkfathom.jpg":
+{
+	"frame": {"x":0,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_cleaver.jpg":
+{
+	"frame": {"x":128,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_marauder.jpg":
+{
+	"frame": {"x":256,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_powdershot.jpg":
+{
+	"frame": {"x":384,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_raider.jpg":
+{
+	"frame": {"x":0,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_waveshaper.jpg":
+{
+	"frame": {"x":128,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"kul_tiran_footman.jpg":
+{
+	"frame": {"x":256,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"kul_tiran_halberd.jpg":
+{
+	"frame": {"x":384,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"kul_tiran_marksman.jpg":
+{
+	"frame": {"x":0,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"kul_tiran_vanguard.jpg":
+{
+	"frame": {"x":128,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"kul_tiran_wavetender.jpg":
+{
+	"frame": {"x":256,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"riptide_shredder.jpg":
+{
+	"frame": {"x":384,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"scrimshaw_enforcer.jpg":
+{
+	"frame": {"x":0,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"scrimshaw_gutter.jpg":
+{
+	"frame": {"x":128,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"sergeant_bainbridge.jpg":
+{
+	"frame": {"x":256,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"snarling_dockhound.jpg":
+{
+	"frame": {"x":384,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"viqgoth.jpg":
+{
+	"frame": {"x":0,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1125},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0920be7298d7cd94ea177719146c5588:2bb6e6ef63a03e7ba662877f21978820:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

@@ -1,0 +1,300 @@
+{"frames": {
+
+"addled_thug.jpg":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"asset_manager.jpg":
+{
+	"frame": {"x":128,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"azerite_extractor.jpg":
+{
+	"frame": {"x":256,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"azerokk.jpg":
+{
+	"frame": {"x":384,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"big_money_crab.jpg":
+{
+	"frame": {"x":0,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bottom_feeder.jpg":
+{
+	"frame": {"x":128,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"coinoperated_crowd_pummeler.jpg":
+{
+	"frame": {"x":256,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"crawler_mine.jpg":
+{
+	"frame": {"x":384,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"earthrager.jpg":
+{
+	"frame": {"x":0,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"expert_technician.jpg":
+{
+	"frame": {"x":128,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"feckless_assistant.jpg":
+{
+	"frame": {"x":256,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"footbomb_hooligan.jpg":
+{
+	"frame": {"x":384,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"hired_assassin.jpg":
+{
+	"frame": {"x":0,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"mech_jockey.jpg":
+{
+	"frame": {"x":128,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"mechanized_peacekeeper.jpg":
+{
+	"frame": {"x":256,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"mine_rat.jpg":
+{
+	"frame": {"x":384,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"mogul_razdunk.jpg":
+{
+	"frame": {"x":0,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"offduty_laborer.jpg":
+{
+	"frame": {"x":128,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ordnance_specialist.jpg":
+{
+	"frame": {"x":256,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"posh_vacationer.jpg":
+{
+	"frame": {"x":384,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"refreshment_vendor.jpg":
+{
+	"frame": {"x":0,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"rixxa_fluxflame.jpg":
+{
+	"frame": {"x":128,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"rowdy_reveler.jpg":
+{
+	"frame": {"x":256,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"safety_shark.jpg":
+{
+	"frame": {"x":384,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"shalebiter.jpg":
+{
+	"frame": {"x":0,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"stonefury.jpg":
+{
+	"frame": {"x":128,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"taskmaster_askari.jpg":
+{
+	"frame": {"x":256,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"test_subject.jpg":
+{
+	"frame": {"x":384,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"venture_co_alchemist.jpg":
+{
+	"frame": {"x":0,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"venture_co_earthshaper.jpg":
+{
+	"frame": {"x":128,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"venture_co_longshoreman.jpg":
+{
+	"frame": {"x":256,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"venture_co_mastermind.jpg":
+{
+	"frame": {"x":384,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"venture_co_skyscorcher.jpg":
+{
+	"frame": {"x":0,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"venture_co_war_machine.jpg":
+{
+	"frame": {"x":128,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"wanton_sapper.jpg":
+{
+	"frame": {"x":256,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"weapons_tester.jpg":
+{
+	"frame": {"x":384,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1125},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7985fe17bec7fa9bc2e3713f50edfc83:b8b59906329af0133833cdb802490994:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

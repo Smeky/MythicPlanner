@@ -1,0 +1,25 @@
+.bp3-menu-item.c-affitem {
+    align-items: center;
+    justify-content: space-between;
+    line-height: 0;
+    padding: 3px 7px;
+
+    .e-affimage {
+        width: 28px;
+        margin-right: 4px;
+        border: 1px solid #272727;
+        border-radius: 3px;
+    }
+}
+
+.c-affixquery {
+    input {
+        padding-right: 0 !important;
+    }
+}
+
+// // This may be dangerous but because the Select's list is in a Portal and
+// // we can't add classes to this element directly, there isn't other way
+// .bp3-select-popover {
+
+// }

@@ -1,0 +1,196 @@
+{"frames": {
+
+"ashvane_flamecaster.jpg":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_jailer.jpg":
+{
+	"frame": {"x":128,"y":0,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_marine.jpg":
+{
+	"frame": {"x":0,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_officer.jpg":
+{
+	"frame": {"x":128,"y":125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_priest.jpg":
+{
+	"frame": {"x":0,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_spotter.jpg":
+{
+	"frame": {"x":128,"y":250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"ashvane_warden.jpg":
+{
+	"frame": {"x":0,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_looter.jpg":
+{
+	"frame": {"x":128,"y":375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"bilge_rat_seaspeaker.jpg":
+{
+	"frame": {"x":0,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"blacktooth_arsonist.jpg":
+{
+	"frame": {"x":128,"y":500,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"block_warden.jpg":
+{
+	"frame": {"x":0,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"cutwater_striker.jpg":
+{
+	"frame": {"x":128,"y":625,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"despondent_scallywag.jpg":
+{
+	"frame": {"x":0,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_raider.jpg":
+{
+	"frame": {"x":128,"y":750,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"irontide_thug.jpg":
+{
+	"frame": {"x":0,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"jes_howlis.jpg":
+{
+	"frame": {"x":128,"y":875,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"knight_captain_valyri.jpg":
+{
+	"frame": {"x":0,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"overseer_korgus.jpg":
+{
+	"frame": {"x":128,"y":1000,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"saltwater_snapper.jpg":
+{
+	"frame": {"x":0,"y":1125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"sewer_vicejaw.jpg":
+{
+	"frame": {"x":128,"y":1125,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"silt_crab.jpg":
+{
+	"frame": {"x":0,"y":1250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"stinging_parasite.jpg":
+{
+	"frame": {"x":128,"y":1250,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+},
+"the_sand_queen.jpg":
+{
+	"frame": {"x":0,"y":1375,"w":128,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":125},
+	"sourceSize": {"w":128,"h":125}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":1500},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ad32d1f98df2baa954296461a48a0e4a:143169df39978aa7694db090da538ef8:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

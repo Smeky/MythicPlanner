@@ -1,0 +1,22 @@
+@import '~@blueprintjs/icons/lib/css/blueprint-icons.css';
+@import '~@blueprintjs/core/lib/css/blueprint.css';
+@import 'variables.scss';
+
+@import 'containers/home.scss';
+@import 'containers/plan.scss';
+@import 'containers/editor.scss';
+@import 'containers/unknown.scss';
+
+@import 'components/navbar.scss';
+@import 'components/colorpicker.scss';
+@import 'components/affixselect.scss';
+
+body {
+    margin: 0;
+    background-color: #12151b;
+    padding-top: $mp-navbar-height;
+}
+
+.c-main-content {
+    min-height: 570px;
+}

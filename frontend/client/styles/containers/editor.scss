@@ -1,0 +1,18 @@
+.p-editor {
+    display: flex;
+    flex-direction: row;
+
+    .c-content {
+        margin-left: auto;
+        margin-right: auto;
+        
+        .e-spinner {
+            margin-top: 120px;
+        }
+    }
+
+    .c-unitlist {
+        overflow-x: hidden;
+        height: 90vh;
+    }
+}

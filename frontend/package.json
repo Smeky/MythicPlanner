@@ -1,0 +1,76 @@
+{
+  "name": "MythicPlanner_frontend",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.dev.js",
+    "build": "webpack --config ./webpack.config.prod.js"
+  },
+  "dependencies": {
+    "@babel/preset-stage-0": "^7.0.0",
+    "@blueprintjs/core": "^3.9.0",
+    "@blueprintjs/select": "^3.3.0",
+    "axios": "^0.18.0",
+    "css-loader": "^1.0.0",
+    "history": "^4.7.2",
+    "konva": "^2.5.0",
+    "mobx": "^5.5.2",
+    "mobx-react": "^5.3.6",
+    "mobx-react-router": "^4.0.5",
+    "net": "^1.0.2",
+    "react": "^16.4.1",
+    "react-color": "^2.14.1",
+    "react-dom": "^16.4.1",
+    "react-konva": "^16.6.0",
+    "react-router": "^4.3.1",
+    "regenerator-runtime": "^0.12.0",
+    "socket.io": "^2.1.1",
+    "style-loader": "^0.23.0",
+    "tls": "^0.0.1",
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.1.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "@babel/plugin-proposal-json-strings": "^7.0.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^9.0.0",
+    "babel-loader": "^8.0.2",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "babel-register": "^6.26.0",
+    "file-loader": "^2.0.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0",
+    "webpack-cli": "3.0.8"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      [
+        "@babel/plugin-proposal-decorators",
+        {
+          "legacy": true
+        }
+      ],
+      [
+        "@babel/plugin-proposal-class-properties",
+        {
+          "loose": true
+        }
+      ],
+      "@babel/plugin-proposal-json-strings"
+    ]
+  }
+}

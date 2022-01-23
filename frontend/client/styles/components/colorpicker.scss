@@ -1,0 +1,17 @@
+.e-colorpicker.c-preview {
+    min-width: 17px;
+    min-height: 17px;
+    padding: 6px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .e-preview {
+        height: 16px;
+        width: 16px;
+        border: 1px solid #777474;
+        box-sizing: content-box;
+        cursor: pointer;
+    }
+}

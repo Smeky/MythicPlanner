@@ -1,0 +1,20 @@
+.e-navbar {
+    height: $mp-navbar-height;
+    background-color: #03050a !important;
+    border-bottom: 1px solid #1b1c23;
+
+    
+    .c-content {
+        width: 55%;
+        margin: 0 auto;
+        
+        .bp3-navbar-group {
+            height: $mp-navbar-height;
+        }
+
+        .e-homelink {
+            color: white;
+            text-decoration: none;
+        }
+    }
+}

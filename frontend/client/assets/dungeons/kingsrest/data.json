@@ -1,0 +1,1425 @@
+{
+    "name": "King's Rest",
+    "forces": {
+        "normal": 319,
+        "teeming": 383
+    },
+    "spritesheet": {
+        "meta": "sprites.json",
+        "image": "sprites.png"
+    },
+    "timers": {
+        "bronze": "36:00",
+        "silver": "28:48",
+        "gold": "21:36"
+    },
+    "levels": [
+        {
+            "id": 1,
+            "image": "kingsrest.png",
+            "scale": 1.5,
+            "packs": [
+                {
+                    "id": 2,
+                    "units": [
+                        {
+                            "id": 1,
+                            "unitId": "133935",
+                            "x": 696.4,
+                            "y": 402.6
+                        },
+                        {
+                            "id": 2,
+                            "unitId": "133935",
+                            "x": 683.7,
+                            "y": 412.1
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "units": [
+                        {
+                            "id": 3,
+                            "unitId": "133935",
+                            "x": 684.4,
+                            "y": 302
+                        },
+                        {
+                            "id": 4,
+                            "unitId": "134174",
+                            "x": 770.2,
+                            "y": 441.1
+                        },
+                        {
+                            "id": 5,
+                            "unitId": "134158",
+                            "x": 775.8,
+                            "y": 431.3
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "units": [
+                        {
+                            "id": 6,
+                            "unitId": "133935",
+                            "x": 684.7,
+                            "y": 328.9
+                        },
+                        {
+                            "id": 7,
+                            "unitId": "133943",
+                            "x": 780.5,
+                            "y": 454.6
+                        },
+                        {
+                            "id": 8,
+                            "unitId": "133943",
+                            "x": 782.6,
+                            "y": 447.9
+                        },
+                        {
+                            "id": 9,
+                            "unitId": "133943",
+                            "x": 789.2,
+                            "y": 446.3
+                        },
+                        {
+                            "id": 10,
+                            "unitId": "133943",
+                            "x": 794.5,
+                            "y": 450.7
+                        },
+                        {
+                            "id": 11,
+                            "unitId": "133943",
+                            "x": 786.9,
+                            "y": 452.5
+                        },
+                        {
+                            "id": 12,
+                            "unitId": "133943",
+                            "x": 792.2,
+                            "y": 456.7
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "units": [
+                        {
+                            "id": 13,
+                            "unitId": "133943",
+                            "x": 684.9,
+                            "y": 350.9
+                        },
+                        {
+                            "id": 14,
+                            "unitId": "133943",
+                            "x": 694.9,
+                            "y": 361.9
+                        },
+                        {
+                            "id": 15,
+                            "unitId": "133943",
+                            "x": 695.3,
+                            "y": 346.7
+                        },
+                        {
+                            "id": 16,
+                            "unitId": "133943",
+                            "x": 700.1,
+                            "y": 353.2
+                        },
+                        {
+                            "id": 17,
+                            "unitId": "133943",
+                            "x": 688.2,
+                            "y": 357.4
+                        },
+                        {
+                            "id": 18,
+                            "unitId": "133943",
+                            "x": 693.3,
+                            "y": 352.9
+                        },
+                        {
+                            "id": 19,
+                            "unitId": "133943",
+                            "x": 699.8,
+                            "y": 359
+                        },
+                        {
+                            "id": 20,
+                            "unitId": "133943",
+                            "x": 688.2,
+                            "y": 364.2
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "units": [
+                        {
+                            "id": 21,
+                            "unitId": "134174",
+                            "x": 733.1,
+                            "y": 444.5
+                        },
+                        {
+                            "id": 22,
+                            "unitId": "134157",
+                            "x": 737.7,
+                            "y": 434.9
+                        },
+                        {
+                            "id": 23,
+                            "unitId": "134157",
+                            "x": 730.1,
+                            "y": 453.7
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "units": [
+                        {
+                            "id": 24,
+                            "unitId": "134174",
+                            "x": 747.1,
+                            "y": 483
+                        },
+                        {
+                            "id": 25,
+                            "unitId": "134158",
+                            "x": 739.5,
+                            "y": 478
+                        },
+                        {
+                            "id": 26,
+                            "unitId": "134158",
+                            "x": 741.6,
+                            "y": 490.1,
+                            "teeming": true
+                        },
+                        {
+                            "id": 27,
+                            "unitId": "134157",
+                            "x": 754.1,
+                            "y": 487.4
+                        },
+                        {
+                            "id": 28,
+                            "unitId": "134157",
+                            "x": 730.3,
+                            "y": 475.1
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "units": [
+                        {
+                            "id": 29,
+                            "unitId": "134157",
+                            "x": 779.8,
+                            "y": 476.2
+                        },
+                        {
+                            "id": 30,
+                            "unitId": "134157",
+                            "x": 785.1,
+                            "y": 482.9
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "units": [
+                        {
+                            "id": 31,
+                            "unitId": "135322",
+                            "x": 822.9,
+                            "y": 444.9
+                        },
+                        {
+                            "id": 32,
+                            "unitId": "137487",
+                            "x": 628.1,
+                            "y": 515.8
+                        },
+                        {
+                            "id": 33,
+                            "unitId": "137487",
+                            "x": 621.9,
+                            "y": 517.9,
+                            "teeming": true
+                        },
+                        {
+                            "id": 34,
+                            "unitId": "137486",
+                            "x": 622.9,
+                            "y": 509.5
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "units": [
+                        {
+                            "id": 35,
+                            "unitId": "137484",
+                            "x": 623.3,
+                            "y": 546.9
+                        },
+                        {
+                            "id": 36,
+                            "unitId": "137485",
+                            "x": 614.7,
+                            "y": 550.1
+                        },
+                        {
+                            "id": 37,
+                            "unitId": "137485",
+                            "x": 615.3,
+                            "y": 541.2
+                        },
+                        {
+                            "id": 38,
+                            "unitId": "137485",
+                            "x": 630.6,
+                            "y": 540.8
+                        },
+                        {
+                            "id": 39,
+                            "unitId": "137485",
+                            "x": 631.2,
+                            "y": 549.2
+                        },
+                        {
+                            "id": 40,
+                            "unitId": "137485",
+                            "x": 623.3,
+                            "y": 536.4,
+                            "teeming": true
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "units": [
+                        {
+                            "id": 41,
+                            "unitId": "134251",
+                            "x": 646,
+                            "y": 544.7
+                        },
+                        {
+                            "id": 42,
+                            "unitId": "137473",
+                            "x": 662.2,
+                            "y": 543.8
+                        },
+                        {
+                            "id": 43,
+                            "unitId": "134331",
+                            "x": 654.9,
+                            "y": 549.3
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "units": [
+                        {
+                            "id": 44,
+                            "unitId": "137474",
+                            "x": 650.8,
+                            "y": 515
+                        },
+                        {
+                            "id": 45,
+                            "unitId": "137478",
+                            "x": 654.9,
+                            "y": 508.3
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "units": [
+                        {
+                            "id": 46,
+                            "unitId": "134739",
+                            "x": 538.3,
+                            "y": 349.8
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "units": [
+                        {
+                            "id": 47,
+                            "unitId": "134739",
+                            "x": 520.8,
+                            "y": 184.7,
+                            "teeming": true
+                        },
+                        {
+                            "id": 48,
+                            "unitId": "135167",
+                            "x": 439.5,
+                            "y": 386.6
+                        },
+                        {
+                            "id": 49,
+                            "unitId": "135192",
+                            "x": 431.6,
+                            "y": 382,
+                            "teeming": true
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "units": [
+                        {
+                            "id": 50,
+                            "unitId": "137969",
+                            "x": 584.6,
+                            "y": 184.5
+                        },
+                        {
+                            "id": 51,
+                            "unitId": "135239",
+                            "x": 447.9,
+                            "y": 364.9
+                        },
+                        {
+                            "id": 52,
+                            "unitId": "134994",
+                            "x": 447.6,
+                            "y": 374.2
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "units": [
+                        {
+                            "id": 53,
+                            "unitId": "137969",
+                            "x": 510.9,
+                            "y": 129.7
+                        },
+                        {
+                            "id": 54,
+                            "unitId": "135167",
+                            "x": 432.9,
+                            "y": 410.7
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "units": [
+                        {
+                            "id": 55,
+                            "unitId": "134993",
+                            "x": 547.7,
+                            "y": 164.8
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "units": [
+                        {
+                            "id": 56,
+                            "unitId": "135204",
+                            "x": 430.8,
+                            "y": 129.6
+                        },
+                        {
+                            "id": 57,
+                            "unitId": "135204",
+                            "x": 451,
+                            "y": 129.8
+                        },
+                        {
+                            "id": 58,
+                            "unitId": "135167",
+                            "x": 435.7,
+                            "y": 138.3
+                        },
+                        {
+                            "id": 59,
+                            "unitId": "135239",
+                            "x": 446.2,
+                            "y": 138.5,
+                            "teeming": true
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "units": [
+                        {
+                            "id": 60,
+                            "unitId": "135204",
+                            "x": 434.8,
+                            "y": 264.6
+                        },
+                        {
+                            "id": 61,
+                            "unitId": "135167",
+                            "x": 446,
+                            "y": 260.9
+                        },
+                        {
+                            "id": 62,
+                            "unitId": "135239",
+                            "x": 433.9,
+                            "y": 256.3
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "units": [
+                        {
+                            "id": 63,
+                            "unitId": "135204",
+                            "x": 445.2,
+                            "y": 317.1
+                        },
+                        {
+                            "id": 64,
+                            "unitId": "135235",
+                            "x": 435.5,
+                            "y": 322.2
+                        },
+                        {
+                            "id": 65,
+                            "unitId": "135192",
+                            "x": 435.1,
+                            "y": 311.2
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "units": [
+                        {
+                            "id": 66,
+                            "unitId": "135204",
+                            "x": 431.7,
+                            "y": 364.2
+                        },
+                        {
+                            "id": 67,
+                            "unitId": "134994",
+                            "x": 431.1,
+                            "y": 373.9
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "units": [
+                        {
+                            "id": 68,
+                            "unitId": "135167",
+                            "x": 448.4,
+                            "y": 177.5
+                        },
+                        {
+                            "id": 69,
+                            "unitId": "135239",
+                            "x": 432.9,
+                            "y": 177.1
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "units": [
+                        {
+                            "id": 70,
+                            "unitId": "135167",
+                            "x": 447,
+                            "y": 411
+                        },
+                        {
+                            "id": 71,
+                            "unitId": "135231",
+                            "x": 440,
+                            "y": 419.2,
+                            "teeming": true
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "units": [
+                        {
+                            "id": 72,
+                            "unitId": "135231",
+                            "x": 440.5,
+                            "y": 235.9
+                        }
+                    ],
+                    "patrol": [
+                        {
+                            "x": 440.5,
+                            "y": 235.9
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 218.4
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 200.8
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 184.3
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 200.8
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 218.4
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 235.9
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 253.2
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 278.9
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 298.2
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 316.8
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 334.5
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 352.3
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 369.2
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 352.3
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 334.5
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 316.8
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 298.2
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 278.9
+                        },
+                        {
+                            "x": 440.5,
+                            "y": 253.2
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "units": [
+                        {
+                            "id": 73,
+                            "unitId": "135231",
+                            "x": 439.5,
+                            "y": 146.1,
+                            "teeming": true
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "units": [
+                        {
+                            "id": 74,
+                            "unitId": "135235",
+                            "x": 435.1,
+                            "y": 223.7
+                        },
+                        {
+                            "id": 75,
+                            "unitId": "135192",
+                            "x": 431.7,
+                            "y": 217
+                        },
+                        {
+                            "id": 76,
+                            "unitId": "135192",
+                            "x": 446.8,
+                            "y": 217.5
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "units": [
+                        {
+                            "id": 77,
+                            "unitId": "135472",
+                            "x": 440.4,
+                            "y": 540.9
+                        },
+                        {
+                            "id": 78,
+                            "unitId": "135475",
+                            "x": 469,
+                            "y": 529.7
+                        },
+                        {
+                            "id": 79,
+                            "unitId": "135470",
+                            "x": 412.1,
+                            "y": 529.4
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "units": [
+                        {
+                            "id": 80,
+                            "unitId": "138489",
+                            "x": 296.6,
+                            "y": 316.7
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "units": [
+                        {
+                            "id": 81,
+                            "unitId": "136160",
+                            "x": 165.6,
+                            "y": 316.3
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "units": [
+                        {
+                            "id": 82,
+                            "unitId": "137989",
+                            "x": 514,
+                            "y": 179.9
+                        },
+                        {
+                            "id": 83,
+                            "unitId": "137989",
+                            "x": 527.3,
+                            "y": 181
+                        },
+                        {
+                            "id": 84,
+                            "unitId": "137989",
+                            "x": 525,
+                            "y": 192.1
+                        },
+                        {
+                            "id": 85,
+                            "unitId": "137989",
+                            "x": 516,
+                            "y": 195.3
+                        },
+                        {
+                            "id": 86,
+                            "unitId": "137989",
+                            "x": 511.7,
+                            "y": 187.8
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "units": [
+                        {
+                            "id": 87,
+                            "unitId": "137989",
+                            "x": 543.3,
+                            "y": 206.3
+                        },
+                        {
+                            "id": 88,
+                            "unitId": "137989",
+                            "x": 549.5,
+                            "y": 207.9
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "units": [
+                        {
+                            "id": 89,
+                            "unitId": "137989",
+                            "x": 502.4,
+                            "y": 203.3
+                        },
+                        {
+                            "id": 90,
+                            "unitId": "137989",
+                            "x": 506,
+                            "y": 208.6
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "units": [
+                        {
+                            "id": 91,
+                            "unitId": "137989",
+                            "x": 498.1,
+                            "y": 165
+                        },
+                        {
+                            "id": 92,
+                            "unitId": "137989",
+                            "x": 503.8,
+                            "y": 165
+                        },
+                        {
+                            "id": 93,
+                            "unitId": "137989",
+                            "x": 500.4,
+                            "y": 171.3
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "units": [
+                        {
+                            "id": 94,
+                            "unitId": "137989",
+                            "x": 507.7,
+                            "y": 141.8
+                        },
+                        {
+                            "id": 95,
+                            "unitId": "137989",
+                            "x": 509,
+                            "y": 147.5
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "units": [
+                        {
+                            "id": 96,
+                            "unitId": "137989",
+                            "x": 526.6,
+                            "y": 137.3
+                        },
+                        {
+                            "id": 97,
+                            "unitId": "137989",
+                            "x": 532.1,
+                            "y": 134.1
+                        },
+                        {
+                            "id": 98,
+                            "unitId": "137989",
+                            "x": 532.2,
+                            "y": 141.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "units": {
+        "133935": {
+            "name": "Animated Guardian",
+            "value": 5,
+            "isBoss": false,
+            "image": "animated_guardian.jpg",
+            "spells": [
+                "270003",
+                "270016"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 500344,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "133943": {
+            "name": "Minion of Zul",
+            "value": 0,
+            "isBoss": false,
+            "image": "minion_of_zul.jpg",
+            "spells": [
+                "269935",
+                "269936"
+            ],
+            "creatureType": "Aberration",
+            "level": 120,
+            "health": 24,
+            "characteristics": [
+                "Taunt",
+                "Slow"
+            ]
+        },
+        "134157": {
+            "name": "Shadow-Borne Warrior",
+            "value": 4,
+            "isBoss": false,
+            "image": "shadowborne_warrior.jpg",
+            "spells": [
+                "269931"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 294320,
+            "characteristics": [
+                "Taunt",
+                "Disorient",
+                "Stun",
+                "Slow",
+                "Fear"
+            ]
+        },
+        "134158": {
+            "name": "Shadow-Borne Champion",
+            "value": 6,
+            "isBoss": false,
+            "image": "shadowborne_champion.jpg",
+            "spells": [
+                "269928",
+                "269976"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 470912,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "134174": {
+            "name": "Shadow-Borne Witch Doctor",
+            "value": 5,
+            "isBoss": false,
+            "image": "shadowborne_witch_doctor.jpg",
+            "spells": [
+                "269972",
+                "269973"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 441480,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "134251": {
+            "name": "Seneschal M'bara",
+            "value": 4,
+            "isBoss": false,
+            "image": "seneschal_mbara.jpg",
+            "spells": [
+                "270901"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 470912,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "134331": {
+            "name": "King Rahu'ai",
+            "value": 6,
+            "isBoss": false,
+            "image": "king_rahuai.jpg",
+            "spells": [
+                "270889",
+                "270891"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 470912,
+            "characteristics": []
+        },
+        "134739": {
+            "name": "Purification Construct",
+            "value": 8,
+            "isBoss": false,
+            "image": "purification_construct.jpg",
+            "spells": [
+                "270284",
+                "270293"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 706368,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "134993": {
+            "name": "Mchimba the Embalmer",
+            "value": 0,
+            "isBoss": true,
+            "image": "mchimba_the_embalmer.jpg",
+            "spells": [
+                "267618",
+                "267639",
+                "267702",
+                "271290"
+            ],
+            "creatureType": "Mechanical",
+            "level": 122,
+            "health": 2060240,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "134994": {
+            "name": "Spectral Headhunter",
+            "value": 1,
+            "isBoss": false,
+            "image": "spectral_headhunter.jpg",
+            "spells": [],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 95654,
+            "characteristics": [
+                "Silence",
+                "Disorient",
+                "Stun"
+            ]
+        },
+        "135167": {
+            "name": "Spectral Berserker",
+            "value": 4,
+            "isBoss": false,
+            "image": "spectral_berserker.jpg",
+            "spells": [
+                "270482",
+                "270485",
+                "270487"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 353184,
+            "characteristics": [
+                "Taunt",
+                "Incapacitate",
+                "Shackle Undead",
+                "Root",
+                "Silence",
+                "Slow",
+                "Stun",
+                "Disorient"
+            ]
+        },
+        "135192": {
+            "name": "Honored Raptor",
+            "value": 4,
+            "isBoss": false,
+            "image": "honored_raptor.jpg",
+            "spells": [
+                "270500",
+                "270502",
+                "270503"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 294320,
+            "characteristics": [
+                "Taunt",
+                "Disorient",
+                "Stun"
+            ]
+        },
+        "135204": {
+            "name": "Spectral Hex Priest",
+            "value": 4,
+            "isBoss": false,
+            "image": "spectral_hex_priest.jpg",
+            "spells": [
+                "270492",
+                "270493"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 264888,
+            "characteristics": [
+                "Taunt",
+                "Incapacitate",
+                "Shackle Undead",
+                "Silence",
+                "Slow",
+                "Stun",
+                "Disorient"
+            ]
+        },
+        "135231": {
+            "name": "Spectral Brute",
+            "value": 8,
+            "isBoss": false,
+            "image": "spectral_brute.jpg",
+            "spells": [
+                "270514"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 588640,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "135235": {
+            "name": "Spectral Beastmaster",
+            "value": 4,
+            "isBoss": false,
+            "image": "spectral_beastmaster.jpg",
+            "spells": [
+                "270505",
+                "270506",
+                "270507"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 279604,
+            "characteristics": [
+                "Taunt",
+                "Disorient",
+                "Shackle Undead",
+                "Stun",
+                "Silence"
+            ]
+        },
+        "135239": {
+            "name": "Spectral Witch Doctor",
+            "value": 4,
+            "isBoss": false,
+            "image": "spectral_witch_doctor.jpg",
+            "spells": [
+                "205276",
+                "270497",
+                "270499"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 294320,
+            "characteristics": [
+                "Taunt",
+                "Disorient",
+                "Stun",
+                "Slow",
+                "Silence"
+            ]
+        },
+        "135322": {
+            "name": "The Golden Serpent",
+            "value": 0,
+            "isBoss": true,
+            "image": "the_golden_serpent.jpg",
+            "spells": [
+                "265773",
+                "265781",
+                "265910",
+                "265923"
+            ],
+            "creatureType": "Elemental",
+            "level": 122,
+            "health": 2060240,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "135470": {
+            "name": "Aka'ali the Conqueror",
+            "value": 0,
+            "isBoss": true,
+            "image": "akaali_the_conqueror.jpg",
+            "spells": [
+                "266237",
+                "266939",
+                "266940",
+                "266951"
+            ],
+            "creatureType": "Undead",
+            "level": 122,
+            "health": 1059552,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "135472": {
+            "name": "Zanazal the Wise",
+            "value": 0,
+            "isBoss": true,
+            "image": "zanazal_the_wise.jpg",
+            "spells": [
+                "267060",
+                "267273",
+                "267308"
+            ],
+            "creatureType": "Undead",
+            "level": 122,
+            "health": 1059552,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "135475": {
+            "name": "Kula the Butcher",
+            "value": 0,
+            "isBoss": true,
+            "image": "kula_the_butcher.jpg",
+            "spells": [
+                "266206",
+                "266231"
+            ],
+            "creatureType": "Undead",
+            "level": 122,
+            "health": 1059552,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "136160": {
+            "name": "King Dazar",
+            "value": 0,
+            "isBoss": true,
+            "image": "king_dazar.jpg",
+            "spells": [
+                "268403",
+                "268586",
+                "268587",
+                "268589",
+                "268590",
+                "268591",
+                "268932",
+                "268936"
+            ],
+            "creatureType": "Undead",
+            "level": 122,
+            "health": 2295696,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137473": {
+            "name": "Guard Captain Atu",
+            "value": 4,
+            "isBoss": false,
+            "image": "guard_captain_atu.jpg",
+            "spells": [
+                "270084"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 478270,
+            "characteristics": [
+                "Stun",
+                "Slow",
+                "Taunt",
+                "Disorient"
+            ]
+        },
+        "137474": {
+            "name": "King Timalji",
+            "value": 6,
+            "isBoss": false,
+            "image": "king_timalji.jpg",
+            "spells": [
+                "270927",
+                "270928"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 470912,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137478": {
+            "name": "Queen Wasi",
+            "value": 6,
+            "isBoss": false,
+            "image": "queen_wasi.jpg",
+            "spells": [
+                "589",
+                "5116",
+                "186439",
+                "212792",
+                "270920",
+                "270923",
+                "280404"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 470912,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137484": {
+            "name": "King A'akul",
+            "value": 6,
+            "isBoss": false,
+            "image": "king_aakul.jpg",
+            "spells": [
+                "270865"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 765232,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137485": {
+            "name": "Bloodsworn Agent",
+            "value": 4,
+            "isBoss": false,
+            "image": "bloodsworn_agent.jpg",
+            "spells": [
+                "270872"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 294320,
+            "characteristics": [
+                "Taunt",
+                "Slow",
+                "Stun",
+                "Disorient"
+            ]
+        },
+        "137486": {
+            "name": "Queen Patlaa",
+            "value": 4,
+            "isBoss": false,
+            "image": "queen_patlaa.jpg",
+            "spells": [
+                "270505",
+                "270930"
+            ],
+            "creatureType": "Undead",
+            "level": 121,
+            "health": 470912,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137487": {
+            "name": "Skeletal Hunting Raptor",
+            "value": 4,
+            "isBoss": false,
+            "image": "skeletal_hunting_raptor.jpg",
+            "spells": [
+                "270500",
+                "270502",
+                "270503"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 294320,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137969": {
+            "name": "Interment Construct",
+            "value": 6,
+            "isBoss": false,
+            "image": "interment_construct.jpg",
+            "spells": [
+                "271555",
+                "271561",
+                "271562"
+            ],
+            "creatureType": "Undead",
+            "level": 120,
+            "health": 588640,
+            "characteristics": [
+                "Taunt"
+            ]
+        },
+        "137989": {
+            "name": "Embalming Fluid",
+            "value": 1,
+            "isBoss": false,
+            "image": "embalming_fluid.jpg",
+            "spells": [
+                "271563",
+                "271565"
+            ],
+            "creatureType": "Aberration",
+            "level": 120,
+            "health": 176592,
+            "characteristics": [
+                "Taunt",
+                "Disorient",
+                "Stun",
+                "Slow",
+                "Root",
+                "Silence"
+            ]
+        },
+        "138489": {
+            "name": "Shadow of Zul",
+            "value": 8,
+            "isBoss": false,
+            "image": "shadow_of_zul.jpg",
+            "spells": [
+                "271640",
+                "272388"
+            ],
+            "creatureType": "Humanoid",
+            "level": -1,
+            "health": 1000688,
+            "characteristics": [
+                "Taunt"
+            ]
+        }
+    }
+}

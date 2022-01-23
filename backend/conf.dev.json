@@ -1,0 +1,10 @@
+{
+    "ServerCert": "cert/dev.crt",
+    "ServerCertKey": "cert/dev.key",
+    "ServerPort": 3000,
+    "MongoUrl": "mongodb://192.168.99.100:27017",
+    "MongoDbName": "mythic",
+    "SocketPort": 3000,
+    "AccessOriginUrl": "http://localhost:9000",
+    "SessionSecret": "my-dev-secret-haha"
+}
